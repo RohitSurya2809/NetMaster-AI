@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/tools/realtime-analysis/page": "app/tools/realtime-analysis/page.js",
+  "/tools/congestion-prediction/page": "app/tools/congestion-prediction/page.js",
+  "/tools/insights-reports/page": "app/tools/insights-reports/page.js"
+}
